@@ -9,23 +9,20 @@ Good communication and social skills
 
 💬 Ask me about: MERN applications and system architecture
 
-## Coding Languages and Proficiencies 16.09.2025
+## Programming
 
-💻 Python: Effective 
+💻 Python
 
-💻 Javascript & Typescript: Capable
- 
-💻 C++: Intermediate
+💻 Javascript & Typescript
 
-💻 C: Capable (preference)
+💻 C
 
-💻 Swift: Intermediate
+💻 HTML & CSS
 
-💻 HTML & CSS: Effective
-
-💻 C#: Capable 
+💻 C#
 
 ## How to reach me: 
+
 📫 School Email: Topi.Setala@student.lab.fi
 
 📭 Personal Email: Topset19@gmail.com 
